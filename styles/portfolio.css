@@ -100,8 +100,8 @@ nav a {
 }
 
 .banner {
-    background-image: url('../images/header_bg.png');
-    background-position: bottom right;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-position: bottom right, bottom left;
     background-repeat: no-repeat;
     justify-content: space-between;
     background-color: #FFF8F3;
